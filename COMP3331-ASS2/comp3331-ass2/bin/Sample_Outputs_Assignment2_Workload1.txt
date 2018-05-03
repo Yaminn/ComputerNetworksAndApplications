@@ -1,0 +1,349 @@
+OUTPUT 1
+--------------------SHP-------------------- 
+
+total number of virtual circuit requests: 5884 
+number of successfully routed requests: 5235 
+percentage of routed request: 88.970085 
+number of blocked requests: 649 
+percentage of blocked request: 11.029912 
+average number of hops per circuit: 2.6475644 
+average cumulative propagation delay per circuit: 168.92914 
+
+--------------------SDP-------------------- 
+
+total number of virtual circuit requests: 5884 
+number of successfully routed requests: 5340 
+percentage of routed request: 90.754585 
+number of blocked requests: 544 
+percentage of blocked request: 9.245411 
+average number of hops per circuit: 3.3149812 
+average cumulative propagation delay per circuit: 140.21143 
+
+--------------------LLP-------------------- 
+
+total number of virtual circuit requests: 5884 
+number of successfully routed requests: 5799 
+percentage of routed request: 98.555405 
+number of blocked requests: 85 
+percentage of blocked request: 1.4445955 
+average number of hops per circuit: 4.031902 
+average cumulative propagation delay per circuit: 248.61441
+
+OUTPUT 2
+
+SHP---------------------------------------------------- 
+total number of virtual circuit request: 5884 
+number of successfully routed requests: 5509.0 
+percentage of successfully routed request: 93.626785 
+number of blocked requests: 375.0 
+percentage of blocked requests: 6.372133 
+average number of hops per circuit: 2.6750772 
+average cumulative propagation delay per circuit: 164.10184 
+
+SDP---------------------------------------------------- 
+total number of virtual circuit request: 5884 
+number of successfully routed requests: 5340.0 
+percentage of successfully routed request: 90.754585 
+number of blocked requests: 544.0 
+percentage of blocked requests: 9.24384 
+average number of hops per circuit: 3.3149812 
+average cumulative propagation delay per circuit: 140.21143 
+
+LLP---------------------------------------------------- 
+total number of virtual circuit request: 5884 
+number of successfully routed requests: 5776.0 
+percentage of successfully routed request: 98.16452 
+number of blocked requests: 108.0 
+percentage of blocked requests: 1.8351742 
+average number of hops per circuit: 4.4246883 
+average cumulative propagation delay per circuit: 273.68387
+
+OUTPUT 3
+
+--------------------SHP-------------------- 
+
+total number of virtual circuit requests: 5884 
+number of successfully routed requests: 5235 
+percentage of routed request: 88.970085 
+number of blocked requests: 649 
+percentage of blocked request: 11.029912 
+average number of hops per circuit: 2.6475644 
+average cumulative propagation delay per circuit: 168.92914 
+
+--------------------SDP-------------------- 
+
+total number of virtual circuit requests: 5884 
+number of successfully routed requests: 5340 
+percentage of routed request: 90.754585 
+number of blocked requests: 544 
+percentage of blocked request: 9.245411 
+average number of hops per circuit: 3.3149812 
+average cumulative propagation delay per circuit: 140.21143 
+
+--------------------LLP-------------------- 
+
+total number of virtual circuit requests: 5884 
+number of successfully routed requests: 5799 
+percentage of routed request: 98.555405 
+number of blocked requests: 85 
+percentage of blocked request: 1.4445955 
+average number of hops per circuit: 4.031902 
+average cumulative propagation delay per circuit: 248.61441
+
+OUTPUT 4
+
+SHP ==== 
+total number of virtual circuit requests: 5884 
+number of successfully routed requests: 5398 
+percentage of successfully routed requests: 91.74031271244051 
+number of blocked requests: 486 
+percentage of blocked requests: 8.259687287559483 
+average number of hops per circuit: 2.6615413115968876 
+average cumulative propagation delay per circuit: 168.95628010374213 
+
+SDP ==== 
+
+total number of virtual circuit requests: 5884 
+number of successfully routed requests: 5340 
+percentage of successfully routed requests: 90.75458871515976 
+number of blocked requests: 544 
+percentage of blocked requests: 9.245411284840245 
+average number of hops per circuit: 3.3149812734082396 
+average cumulative propagation delay per circuit: 140.21142322097378 
+
+
+LLP ==== 
+
+total number of virtual circuit requests: 5884 
+number of successfully routed requests: 5830 
+percentage of successfully routed requests: 99.08225696804894 
+number of blocked requests: 54 
+percentage of blocked requests: 0.9177430319510537 
+average number of hops per circuit: 3.9708404802744424 
+average cumulative propagation delay per circuit: 245.89125214408233
+
+OUTPUT 5
+
+
+   
+
+java ass2 SHP 
+total number of virtual circuit requests: 5884 
+number of successfully routed requests: 5422 
+percentage of successfully routed requests: 92.14819850441877 
+number of blocked request: 462 
+average number of hops per circuit: 2.654924382146809 
+average cumulative propagation delay per circuit: 163.29749170047953 
+delay: 885399.0 successful circuits: 5422 
+
+java ass2 SDP 
+total number of virtual circuit requests: 5884 
+number of successfully routed requests: 5340 
+percentage of successfully routed requests: 90.75458871515976 
+number of blocked request: 544 
+average number of hops per circuit: 3.3149812734082396 
+average cumulative propagation delay per circuit: 140.21142322097378 
+delay: 748729.0 successful circuits: 5340 
+
+java ass2 LLP 
+total number of virtual circuit requests: 5884 
+number of successfully routed requests: 5819 
+percentage of successfully routed requests: 98.89530931339226 
+number of blocked request: 65 
+average number of hops per circuit: 4.015122873345936 
+average cumulative propagation delay per circuit: 248.87368963739473 
+delay: 1448196.0 successful circuits: 5819
+
+OUTPUT 6
+
+SHP: 
+
+Total number of virtual circuit requests: 5884 
+Number of successfully routed requests: 5393 
+Percentage of successfully routed requests: 91.65533650577838 
+Number of blocked requests: 491 
+Percentage of blocked requests: 8.344663494221619 
+Average number of hops per circuit: 2.6590024105321715 
+Average cumulative propagation delay per circuit: 168.0665677730391 
+Total number of hops for all connections: 14340 
+Total delay for all connections: 906383.0 
+
+
+------------------------------------------------------------------------- 
+
+SDP: 
+
+Total number of virtual circuit requests: 5884 
+Number of successfully routed requests: 5340 
+Percentage of successfully routed requests: 90.75458871515976 
+Number of blocked requests: 544 
+Percentage of blocked requests: 9.245411284840245 
+Average number of hops per circuit: 3.3149812734082396 
+Average cumulative propagation delay per circuit: 140.21142322097378 
+Total number of hops for all connections: 17702 
+Total delay for all connections: 748729.0 
+
+OUTPUT 7
+
+java routing_performance LLP topology.txt workload.txt 
+
+total number of virtual circuit requests: 5884 
+number of successfully routed requests: 5865 
+percentage of successfully routed request: 100 
+number of blocked requests: 19 
+percentage of blocked requests: 0 
+average number of hops per circuit: 3.1 
+average cumulative propagation delay per circuit: 540.4
+
+OUTPUT 8
+
+SHP detected 
+Total number of virtual circuit requests: 5884 
+Number of successful requests: 5397 
+Percentage of successful requests: 91.72331747110809 
+Number of blocked requests: 487 
+Percentage of blocked requests: 8.27668252889191 
+Average number of hops per circuit: 2.0 
+Average cumulative propagation delay per circuit: 158.85248130523453 
+
+-------- 
+
+SDP detected 
+Total number of virtual circuit requests: 5884 
+Number of successful requests: 5460 
+Percentage of successful requests: 92.794017675051 
+Number of blocked requests: 424 
+Percentage of blocked requests: 7.205982324949015 
+Average number of hops per circuit: 2.0 
+Average cumulative propagation delay per circuit: 135.40992522093813
+
+OUTPUT 9
+
+SHP: 
+total number of virtual circuit requests: 5884 
+number of successfully routed requests: 5393 
+percentage of successfully routed requests: 91.655334 
+number of blocked requests: 491 
+percentage of blocked requests: 8.344664 
+average number of hops per circuit: 2.6593733 
+average cumulative propagation delay per circuit: 167.59299 
+
+SDP: 
+total number of virtual circuit requests: 5884 
+number of successfully routed requests: 5340 
+percentage of successfully routed requests: 90.754585 
+number of blocked requests: 544 
+percentage of blocked requests: 9.245411 
+average number of hops per circuit: 3.3149812 
+average cumulative propagation delay per circuit: 140.21143
+
+OUTPUT 10
+
+------SHP---------- 
+total number of virtual circuit requests: 5884 
+number of succesfully routed request: 5485 
+percentage of succesfully routed request: 93 
+number of blocked requests: 399 
+percentage of blocked requests: 6 
+average number of hops per circuit: 2.8092980856882406 
+average cummulative propagation delay per circuit:348.31577028258886 
+-------SDP----------------- 
+total number of virtual circuit requests: 5884 
+number of succesfully routed request: 5340 
+percentage of succesfully routed request: 90 
+number of blocked requests: 544 
+percentage of blocked requests: 9 
+average number of hops per circuit: 3.3149812734082396 
+average cummulative propagation delay per circuit: 280.42284644194757 
+------LLP--------------------- 
+total number of virtual circuit requests: 5884 
+number of succesfully routed request: 5819 
+percentage of succesfully routed request: 98 
+number of blocked requests: 65 
+percentage of blocked requests: 1 
+average number of hops per circuit: 2.955318783296099 
+average cummulative propagation delay per circuit: 368.15054133012546
+
+OUTPUT 11
+
+---SHP--- 
+total number of virtual circuit requests: 5884 
+number of succesfully routed request: 5485 
+percentage of succesfully routed request: 93 
+number of blocked requests: 399 
+percentage of blocked requests: 6 
+average number of hops per circuit: 2.8092980856882406 
+average cummulative propagation delay per circuit: 174.15788514129443 
+---SDP--- 
+total number of virtual circuit requests: 5884 
+number of succesfully routed request: 5340 
+percentage of succesfully routed request: 90 
+number of blocked requests: 544 
+percentage of blocked requests: 9 
+average number of hops per circuit: 3.3149812734082396 
+average cummulative propagation delay per circuit: 140.21142322097378 
+---LLP--- 
+total number of virtual circuit requests: 5884 
+number of succesfully routed request: 5819 
+percentage of succesfully routed request: 98 
+number of blocked requests: 65 
+percentage of blocked requests: 1 
+average number of hops per circuit: 2.955318783296099 
+average cummulative propagation delay per circuit: 184.07527066506273
+
+OUTPUT 12
+
+---SHP--- 
+total number of virtual circuit request: 5884 
+number of successfully routed requests: 5362 
+percentage of successfully routed request: 91.12849 
+number of blocked requests: 522 
+percentage of blocked requests: 8.871513 
+average number of hops per circuit: 2.6618798 
+average cumulative propagation delay per circuit: 166.73387 
+--SDP-- 
+total number of virtual circuit request: 5884 
+number of successfully routed requests: 5422 
+percentage of successfully routed request: 92.1482 
+number of blocked requests: 462 
+percentage of blocked requests: 7.851799 
+average number of hops per circuit: 3.2943563 
+average cumulative propagation delay per circuit: 140.95518 
+---LLP--- 
+total number of virtual circuit request: 5884 
+number of successfully routed requests: 5799 
+percentage of successfully routed request: 98.555405 
+number of blocked requests: 85 
+percentage of blocked requests: 1.4445953 
+average number of hops per circuit: 2.8332472 
+average cumulative propagation delay per circuit: 175.12796
+
+
+OUTPUT 13
+
+SHP Routed Network Report 
+Total number of virtual circuit requests............ 5884 
+Number of successfully routed requests.............. 5424 
+Percentage of successfully routed requests.......... 92.18219 
+Number of blocked requests.......................... 460 
+Percentage of blocked requests...................... 7.817811 
+Average number of hops per circuit.................. 2.4561522 
+Average cumulative propagation delay per circuit.... 163.17441 
+
+SDP Routed Network Report 
+Total number of virtual circuit requests............ 5884 
+Number of successfully routed requests.............. 5340 
+Percentage of successfully routed requests.......... 90.754585 
+Number of blocked requests.......................... 544 
+Percentage of blocked requests...................... 9.245411 
+Average number of hops per circuit.................. 3.0084977 
+Average cumulative propagation delay per circuit.... 140.21143 
+
+LLP Routed Network Report 
+Total number of virtual circuit requests............ 5884 
+Number of successfully routed requests.............. 5782 
+Percentage of successfully routed requests.......... 98.26649 
+Number of blocked requests.......................... 102 
+Percentage of blocked requests...................... 1.7335147 
+Average number of hops per circuit.................. 4.2095513 
+Average cumulative propagation delay per circuit.... 260.70288 
